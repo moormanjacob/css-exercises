@@ -1,0 +1,19 @@
+.oddNum {
+    background-color: #e9967a;
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+#secondElm {
+    color: #0000fe;
+    font-size: 36px;
+}
+
+#thirdElm{
+    font-size: 24px;
+}
+
+#fourthElm {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
